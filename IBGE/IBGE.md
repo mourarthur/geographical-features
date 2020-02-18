@@ -8,8 +8,8 @@ Dados desde 1975 podem ser encontrados na seção de *downloads* da [página](ht
 ### CAGR da população dos municípios
 
 Consolidando as populações estimadas para os anos entre 2015 e 2019, pode-se obter um [CAGR](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) do período e tentar categorizar os municípios de acordo com seu comportamento.  
-A tabela com os números agregados está [aqui](/Brazil_Population_CAGR_2015-2019.png).  
+A tabela com os números agregados está [aqui](https://raw.githubusercontent.com/mourarthur/geographical-features/master/IBGE/Brazil_Population_CAGR_2015-2019.csv).  
 
-![CAGR População Municípios 2015-2019](/CAGR_population.png)
+![CAGR População Municípios 2015-2019](https://raw.githubusercontent.com/mourarthur/geographical-features/master/IBGE/CAGR_population.png)
 
 No histograma fica claro que a maior parte das cidades se concentra na região de baixo crescimento.
