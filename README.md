@@ -2,6 +2,6 @@
 
 ## Fontes de Dados
 
-### [IBGE](IBGE.md)
+### [IBGE](IBGE/IBGE.md)
 
 ### Ministério do Turismo
