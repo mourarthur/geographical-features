@@ -4,4 +4,4 @@
 
 ### [IBGE](IBGE/IBGE.md)
 
-### Ministério do Turismo
+### [Ministério do Turismo](MinisterioTurismo/Turismo.md)
