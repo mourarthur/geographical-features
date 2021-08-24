@@ -14,3 +14,6 @@ A tabela com os números agregados está [aqui](Brazil_Population_CAGR_2015-2019
 ![CAGR População Municípios 2015-2019](CAGR_population.png)
 
 No histograma fica claro que a maior parte das cidades se concentra na região de baixo crescimento.
+
+### [Malhas territoriais](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais.html)
+"Representações cartográficas da estrutura territorial brasileira em nível de estado, município, distrito e subdistrito." Nas seções específicas de download em cada página é possível encontrar as divisões em diferentes granularidades.
